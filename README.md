@@ -1,7 +1,7 @@
 # Hospitality_analysis_PowerBI
 
 ## Hospitality Analysis using Power BI
-This project analyzes the data of a hotel and its various branches, provides insights into the revenue geenrated. 
+This project analyzes the data of a hotel and its various branches, provides insights into the revenue generated. 
 
 # Features
 
